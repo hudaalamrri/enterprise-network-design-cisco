@@ -91,6 +91,38 @@ The Cisco Packet Tracer project file is included in this repository:
 ## 🎯 Project Objective
 
 The objective of this project was to gain practical experience in designing, configuring, securing, and troubleshooting a segmented enterprise network using Cisco networking technologies.
+## 🎯 Project Objective
+
+The objective of this project was to gain practical experience in designing, configuring, securing, and troubleshooting a segmented enterprise network using Cisco networking technologies.
+
+## 📸 Screenshots
+
+### Network Topology
+![Network Topology](topology.png)
+
+### VLAN Configuration
+![VLAN Configuration](screenshots/vlan-configuration.png)
+
+### Trunk Verification
+![Trunk Verification](screenshots/trunk-verification.png)
+
+### Router Interfaces
+![Router Interfaces](screenshots/router-interfaces.png)
+
+### DHCP Pools
+![DHCP Pools](screenshots/dhcp-pools.png)
+
+### DHCP Bindings
+![DHCP Bindings](screenshots/dhcp-bindings.png)
+
+### Port Security
+![Port Security](screenshots/port-security.png)
+
+### Interface Status
+![Interface Status](screenshots/interface-status.png)
+
+### Connectivity Test
+![Connectivity Test](screenshots/connectivity-test.png)
 
 ## 🎯 Project Objective
 
