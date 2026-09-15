@@ -91,9 +91,6 @@ The Cisco Packet Tracer project file is included in this repository:
 ## 🎯 Project Objective
 
 The objective of this project was to gain practical experience in designing, configuring, securing, and troubleshooting a segmented enterprise network using Cisco networking technologies.
-## 🎯 Project Objective
-
-The objective of this project was to gain practical experience in designing, configuring, securing, and troubleshooting a segmented enterprise network using Cisco networking technologies.
 
 ## 📸 Screenshots
 
@@ -124,6 +121,3 @@ The objective of this project was to gain practical experience in designing, con
 ### Connectivity Test
 ![Connectivity Test](screenshots/connectivity-test.png)
 
-## 🎯 Project Objective
-
-The objective of this project was to gain practical experience in designing, configuring, securing, and troubleshooting a segmented enterprise network using Cisco networking technologies.
